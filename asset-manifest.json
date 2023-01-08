@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Satyam1Gupta/react_first/static/css/main.073c9b0a.css",
+    "main.js": "/Satyam1Gupta/react_first/static/js/main.bdddb64f.js",
+    "static/js/787.92609f8e.chunk.js": "/Satyam1Gupta/react_first/static/js/787.92609f8e.chunk.js",
+    "static/media/logo.svg": "/Satyam1Gupta/react_first/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Satyam1Gupta/react_first/index.html",
+    "main.073c9b0a.css.map": "/Satyam1Gupta/react_first/static/css/main.073c9b0a.css.map",
+    "main.bdddb64f.js.map": "/Satyam1Gupta/react_first/static/js/main.bdddb64f.js.map",
+    "787.92609f8e.chunk.js.map": "/Satyam1Gupta/react_first/static/js/787.92609f8e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bdddb64f.js"
+  ]
+}
